@@ -13,7 +13,8 @@ I embarked on my developer journey in 2015, earning my first two certifications 
 
 🌟 Open for Connections: If you're curious to know more or have any questions, feel free to reach out!
 
-![wallhaven-eyp3ro](https://github.com/Mirko92/Mirko92/assets/25347621/2b52424e-91bf-457f-bfc2-00fda0d9d724)
+![mp_bg](https://github.com/Mirko92/Mirko92/assets/25347621/f28e91a9-9484-4093-a26e-ce89b71ed475)
+
 
 <!---
 
