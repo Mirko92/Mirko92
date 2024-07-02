@@ -12,6 +12,9 @@ I embarked on my developer journey in 2015, earning my first two certifications 
 🤝 About Me: I'm a straightforward individual who values honesty and despises hypocrisy. I'm fueled by curiosity, always eager to stay ahead in the ever-evolving tech landscape.
 
 🌟 Open for Connections: If you're curious to know more or have any questions, feel free to reach out!
+
+![wallhaven-eyp3ro](https://github.com/Mirko92/Mirko92/assets/25347621/2b52424e-91bf-457f-bfc2-00fda0d9d724)
+
 <!---
 
 - 👀 I’m interested in FrontEnd technology mainly
